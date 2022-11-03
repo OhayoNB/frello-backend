@@ -1,4 +1,4 @@
-# Frello - Task management board app inspired by trello.com
+# Frello - Project management app inspired by trello.com
 
 [Here's a link to my project](https://frello-urbc.onrender.com/ "Frello link").
 
